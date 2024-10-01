@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Gondola_SD
+font link: http://www.deffeyes.com/popups/type/gondola.html
+font author: Steve Deffeyes
+font author site: http://www.deffeyes.com/
+
+
+icon designer: Cedric Cummings
+icon designer link: /cedriccummings
+        
+{"bg":"#AA5B27","icon":"#E6E7E3","font":"#E6E7E3","slogan":"#fafbf7"}
+      
