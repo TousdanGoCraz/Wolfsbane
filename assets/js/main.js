@@ -83,20 +83,6 @@
 })(jQuery);
 
 
-<<<<<<< HEAD
-
-//Menu 
-document.querySelector('#drinks').addEventListener('click',show)
-
-function show(){
-	document.querySelectorAll('.childContainer').style.display = 'none'
-}
-
-document.querySelectorAll('#desserts').addEventListener('click',showDesserts)
-
-function showDesserts(){
-	document.querySelector('.childContainer').style.display =  'flex'
-=======
 //Menu
 document.querySelector('#getDrinks').addEventListener('click',getDrinks)
 
@@ -117,5 +103,4 @@ function getDesserts(){
 
 	let showDesserts = document.querySelectorAll('.desserts')
 	Array.from(showDesserts).forEach(dessert => dessert.classList.remove('hide'))
->>>>>>> b84cf56 (Fixed Menu)
 }

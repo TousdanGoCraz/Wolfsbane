@@ -4014,17 +4014,6 @@ input, select, textarea {
 	}
 
 
-<<<<<<< HEAD
-/* Order Menu */
-
-	  .main-container {
-		flex-flow: column;
-	  }
-	  
-	  .main-container {
-		position: relative;
-		max-width: 100%;
-=======
 
 .options {
 	display: flex;
@@ -4036,7 +4025,6 @@ input, select, textarea {
 }
 
 	.main-container{
->>>>>>> b84cf56 (Fixed Menu)
 		display: flex;
 		flex-flow: row wrap;
 	}
@@ -4069,20 +4057,6 @@ input, select, textarea {
 	.item-info > *{
 		color: white;
 		max-width: 100%;
-<<<<<<< HEAD
-	  }
-
-	.main-child section >button {
-		position: relative;
-		bottom: 200px;
-	}
-
-	.main-child button img{
-		vertical-align: baseline;
-	}
-
-	  
-=======
 		font-size: 1rem;
 		text-align: left;
 		padding-left: 2.5%;
@@ -4119,7 +4093,6 @@ input, select, textarea {
 			height: 20rem;
 		}	
 	}
->>>>>>> b84cf56 (Fixed Menu)
 /* 
 TODO add curves to each sections borders?
 
