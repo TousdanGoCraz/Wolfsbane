@@ -4070,9 +4070,6 @@ input, select, textarea {
 	}
 
 	@media screen and (max-width : 800px) {
-	.item-info{
-		opacity: .4;
-	}
 	.child-container:active img{
 		transform: scale(1.1);
 	}
